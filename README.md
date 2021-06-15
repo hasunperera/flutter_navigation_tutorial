@@ -4,9 +4,9 @@ Basic to advance navigation features in Flutter (Flutter Navigation Cheat Sheet)
 
 ## Cheat sheet
 
-- 1. Navigator 1.0
+1. Navigator 1.0
 
-- 1.1 Navigate to a new page using Anonymous routes
+- 1.1. Navigate to a new page using Anonymous routes
 - 1.2 Navigate back to previous page
 - 1.3 Pass arguments to next page
 - 1.4 Get results from navigation
@@ -19,7 +19,7 @@ Basic to advance navigation features in Flutter (Flutter Navigation Cheat Sheet)
 - 1.11 Pass arguments to the new page using onGenerateRoute
 - 1.12 Navigate using bottom navigation bar and onGenerateRoute (Nested Routers)
 
-- 2. Navigator 2.0
+2. Navigator 2.0
 
 - 2.1 Basic navigation to pages
 - 2.2 Advanced Navigation to pages using URLs
